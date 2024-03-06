@@ -167,3 +167,6 @@ C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\n
 C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Partials\Partial_Footer.cshtml.g.cs
 C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Product\AddProduct.cshtml.g.cs
 C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Product\UpdateProduct.cshtml.g.cs
+C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Customer\AddCustomer.cshtml.g.cs
+C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Customer\UpdateCustomer.cshtml.g.cs
