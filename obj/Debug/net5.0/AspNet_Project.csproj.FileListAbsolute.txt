@@ -170,3 +170,6 @@ C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\n
 C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
 C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Customer\AddCustomer.cshtml.g.cs
 C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Customer\UpdateCustomer.cshtml.g.cs
+C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Job\Index.cshtml.g.cs
+C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Job\AddJob.cshtml.g.cs
+C:\Users\SEYFULLAH\Desktop\csharpdemos\AspNet_Project\AspNet_Project\obj\Debug\net5.0\Razor\Views\Job\UpdateJob.cshtml.g.cs
